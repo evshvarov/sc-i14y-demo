@@ -1,4 +1,4 @@
-/// This is a sample business rule to deal with cats and dogs
+/// This is a sample business rule to deal with cats and dogs and source control
 Class dc.Demo.FilterPostsRoutingRule Extends Ens.Rule.Definition
 {
 
